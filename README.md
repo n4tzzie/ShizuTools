@@ -1,9 +1,9 @@
-## ShizuTools
+## n4tzie only
 Contains some easy-to-use tools to go beyond the level of control allowed by Android System.
 
 ### Tools -
 - [x] **Debloater** - Uninstall system apps and bloatware, with app information from [UAD](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation).
-- [x] **ThemePatcher** - Unlocks premium content for free, from the Oppo/Realme/Oneplus theme store.
+- [x] **ThemePatcher** - Unlocks premium content for free, from the Oppo/Realme/Oneplus theme store 
 - [x] **MixedAudio** - Allows multiple media apps to play at the same time, or mute audio of specific apps.
 - [x] **SoundMaster** - Independent volume control for every app, play on multiple audio outputs simultaneously, and more! [How to use](https://github.com/legendsayantan/ShizuTools/wiki/SoundMaster)
 - [x] **LookBack** - Allows downgrade of apps, without uninstallation. *Does not work on all devices.*
